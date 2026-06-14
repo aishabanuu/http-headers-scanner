@@ -1,0 +1,17 @@
+┌──(venv)─(aisha㉿kali)-[~/Desktop/http-headers-scanner]
+└─$ python3 scanner.py
+Enter URL: https://github.com
+
+Scanning: https://github.com
+==================================================
+[+] Strict-Transport-Security
+[+] Content-Security-Policy
+[+] X-Frame-Options
+[+] X-Content-Type-Options
+[+] Referrer-Policy
+[-] Missing: Permissions-Policy
+
+Audit Score
+==================================================
+5/6
+83.3%
