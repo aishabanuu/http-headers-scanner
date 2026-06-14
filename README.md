@@ -93,6 +93,15 @@ http-headers-scanner/
 - Security grading system (A-F)
 - Command-line arguments support
 
+## Acknowledgements
+
+This project was inspired by the HTTP Headers Scanner project from the Cybersecurity Projects repository created by Carter Perez.
+
+Original project reference:
+https://github.com/CarterPerez-dev/Cybersecurity-Projects
+
+The implementation in this repository was developed independently as a learning exercise to understand HTTP security headers, Python networking, and basic web security auditing.
+
 ## Disclaimer
 
 This project is intended for educational and defensive security purposes only.
